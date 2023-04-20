@@ -41,6 +41,7 @@ layout: page
 * [Associate users with roles and permissions](https://github.com/Permify/permify-gorm)
 * [gorm-cache - GORM query cache plugin](https://github.com/liyuan1125/gorm-cache)
 * [deepgorm - Nested map filtering](https://github.com/survivorbat/gorm-deep-filtering)
+* [caches - Reduce identical simultaneous queries to database & caching mechanism](https://github.com/go-gorm/caches)
 
 ## <span id="contribute">Contribute to this page</span>
 
